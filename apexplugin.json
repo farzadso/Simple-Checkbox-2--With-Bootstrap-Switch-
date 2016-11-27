@@ -1,0 +1,33 @@
+{
+  "name" : "Simple Checkbox 2 (With Switch Support)",
+  "version" : "1.3",
+  "description" : "A lightweight jQuery plugin for changing checkboxes and radio buttons into toggle switches.",
+  "keywords" : ["jQuery", "SimpleCheckbox", "Switch", "Toggle", "JAFR"],
+  "homepage" : "https://github.com/farzadso/Simple-Checkbox-2--With-Bootstrap-Switch-",
+  "bugs" : {
+    "url" : "https://github.com/farzadso/Simple-Checkbox-2--With-Bootstrap-Switch-",
+    "email" : "farzad.au@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Farzad Soltani",
+    "email" : "farzad.au@gmail.com",
+    "url" : "http://www.jafr.co"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/farzadso/Simple-Checkbox-2--With-Bootstrap-Switch-.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["4.2", "5.0.4", "5.1"],
+      "plugin" : {
+        "internalName" : "COM.ORACLE.APEX.SIMPLE_CHECKBOX_2",
+        "type" : "item",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=9468:2",
+        "previewImage" : "https://github.com/farzadso/Simple-Checkbox-2--With-Bootstrap-Switch-/master/animation.gif"
+      }
+    }
+  }
+}
