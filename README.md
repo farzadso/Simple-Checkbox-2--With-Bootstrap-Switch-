@@ -1,10 +1,10 @@
 # Simple Checkbox 2 (With Switch Support)
 A lightweight jQuery plugin for changing checkboxes and radio buttons into toggle switches.
 
-##Demo
+## Demo
 [Simple Checkbox 2 Plugin - Click Here](https://apex.oracle.com/pls/apex/f?p=9468:2)
 
-##Installation
+## Installation
 Just import the 
 ```html
 item_type_plugin_com_oracle_apex_simple_checkbox_2.sql
