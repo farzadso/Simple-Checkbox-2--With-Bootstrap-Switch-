@@ -1,4 +1,7 @@
 # Simple Checkbox 2 (With Switch Support)
+
+> ⚠ I will not be maintaining this plugin anymore and the current support of this plugin is APEX 5.X. I will respond to any merge requests for anyone willing to contribute though.
+
 A lightweight jQuery plugin for changing checkboxes and radio buttons into toggle switches.
 
 ## Demo
